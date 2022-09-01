@@ -1,1 +1,1 @@
- a script that sets the mode of the file hello to this
+a script that switches the current user to the user betty
