@@ -1,1 +1,1 @@
- a script that creates an empty file called hello
+a scriot that creates empty file
